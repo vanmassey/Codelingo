@@ -1,0 +1,24 @@
+# Python bytecode and speed caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Local virtual environments (Python)
+venv/
+env/
+.env
+.venv/
+ENV/
+
+# Operating system junk files
+.DS_Store
+Thumbs.db
+
+# Frontend dependencies and builds (For future expansion)
+node_modules/
+.next/
+dist/
+build/
+*.log

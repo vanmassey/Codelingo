@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - name: "The Codelingo development team"
+title: "Codelingo: A Multilingual Code Reference Engine and CLI"
+abstract: "Codelingo (cdli) is a high-performance multilingual code reference engine and CLI tool powered by Python and Pandas that adapts programming syntax explanations to native human languages."
+version: 1.0.0
+date-released: 2026-09-05
+license: BSD-3-Clause
+repository-code: "https://github.com"
+
